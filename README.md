@@ -29,14 +29,14 @@ or like this
 # Questions
 
 1. Course communication will happen on
-[ ] The Teams Site
+[x] The Teams Site
 [ ] Email
 [ ] Blackboard
 [ ] Course Plus
 [ ] SIS
 
 2. If you need to communicate with the TAs or instructor you should
-[ ] Send an email
+[x] Send an email
 [ ] Send a chat over Teams
 [ ] Use Brian's gmail 
 [ ] Slack
@@ -44,23 +44,23 @@ or like this
 3. The course grade is based on
 [ ] Online quizzes
 [ ] Live coding exercises
-[ ] Weekly projects
+[x] Weekly projects
 [ ] Ultra high stakes timed tests
 
 4. Unless otherwise stated, the projects are due:
 [ ] Sundays at 5 PM 
-[ ] Mondays at 5 PM
+[x] Mondays at 5 PM
 [ ] Tuesdays at 5 PM
 [ ] Wednesdays at 5 PM
 
 5. Projects will be submitted via:
 [ ] The teams site
-[ ] Github classroom
+[x] Github classroom
 [ ] Personal git repos 
 [ ] Blackboard
 
 6. Major announcements will be made:
-[ ] On the General channel on the Teams site
+[x] On the General channel on the Teams site
 [ ] Over group email
 [ ] Over the Slack group
 [ ] Over Blackboard
