@@ -36,8 +36,8 @@ or like this
 [ ] SIS
 
 2. If you need to communicate with the TAs or instructor you should
-[x] Send an email
-[ ] Send a chat over Teams
+[ ] Send an email
+[x] Send a chat over Teams
 [ ] Use Brian's gmail 
 [ ] Slack
 
